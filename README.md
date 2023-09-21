@@ -64,7 +64,7 @@ python manage.py migrate
 ## Logging
 Application event logs are available in the myauthapp.log file. You can configure log levels and message formats in settings.py.
 
-
+#
 
 # Простое Django-приложение с регистрацией и авторизацией пользователей
 
